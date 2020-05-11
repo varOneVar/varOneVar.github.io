@@ -1,10 +1,10 @@
 # Site settings
 title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+SEOTitle: 卿松的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+email: 1962009798@gmail.com
+description: "没改完后续再改."
+keyword: "BY, BY Blog, 卿松的博客, varonevar, 卿松, web"
 url: "http://varonevar.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/varOneVar/varonevar.github.io.git" # you code repository
